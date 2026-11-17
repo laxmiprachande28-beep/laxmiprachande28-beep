@@ -15,8 +15,8 @@ I enjoy learning new technologies, exploring different areas of computer science
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-- C (Intermediate)
-- Python (Intermediate)
+- C 
+- Python 
 - Java (Basic)
 
 **Python Libraries & Frameworks**
